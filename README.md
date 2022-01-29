@@ -1,2 +1,2 @@
 # Text-Editor
-JATE-Just Another Test Editor
+JATE-Just Another Text Editor
