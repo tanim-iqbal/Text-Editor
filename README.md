@@ -1,4 +1,4 @@
-# Text-Editor
+# JATE
 
 JATE-Just Another Text Editor
 
